@@ -1,16 +1,33 @@
-## Hi there 👋
+# João Lucas
 
-<!--
-**JoaoLucas280/JoaoLucas280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software | Backend Developer (em formação)
 
-Here are some ideas to get you started:
+Focado em desenvolvimento backend com Java, aplicando conceitos de orientação a objetos e regras de negócio em projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- Interesse em desenvolvimento de sistemas reais
+- Foco em backend
+- Valorizo código limpo e organização
+- Evoluindo constantemente através de projetos próprios
+
+## Tecnologias
+
+Java • POO • Estruturas de Dados • Git • GitHub
+
+## Projetos
+
+**Sistema de Biblioteca**  
+Gerenciamento de livros, usuários e empréstimos com controle de disponibilidade e prazos.
+
+**Sistema de Gestão de Pacientes**  
+Cadastro e organização de atendimentos com foco em estruturação de dados e lógica de negócio.
+
+## Objetivo
+
+Busco minha primeira oportunidade como desenvolvedor backend para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções eficientes.
+
+## Contato
+
+LinkedIn: https://www.linkedin.com/  
+Email: seuemail@email.com
