@@ -2,26 +2,53 @@
 
 ###
 
+<h3 align="center"> Desenvolvedor Back-end | Java | POO</h3>
+
+###
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoaoLucas280&label=Visualizações&color=0e75b6&style=flat" alt="JoaoLucas280" />
+</p>
+
+---
+
+##  Sobre mim
+
+Sou um desenvolvedor back-end focado em Java e Programação Orientada a Objetos. Estou em constante evolução, buscando aprimorar minhas habilidades e construir projetos cada vez mais sólidos.
+
+-  Projetos com **Java** e **POO**
+-  Sempre aprendendo mais  
+
+---
+
+## 🛠️ Tecnologias
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github" />
 </div>
 
-###
+---
+
+## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JoaoLucas280&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=JoaoLucas280&theme=dracula&border_radius=5" height="150" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoLucas280&layout=compact&theme=dracula" height="150" alt="top langs" />
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoLucas280/JoaoLucas280/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoLucas280/JoaoLucas280/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoLucas280/JoaoLucas280/output/pacman-contribution-graph.svg">
-</picture>
+## 💼 Disponível para oportunidades
 
-###
+<div align="center">
+  <a href="www.linkedin.com/in/joão-lucas-18a35a398" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:joaolucas280408@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
