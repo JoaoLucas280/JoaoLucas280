@@ -36,8 +36,7 @@ Sou um desenvolvedor back-end focado em Java e Programação Orientada a Objetos
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JoaoLucas280&theme=dracula&border_radius=5" height="150" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoLucas280&layout=compact&theme=dracula" height="150" alt="top langs" />
+  <img src="https://streak-stats.demolab.com?user=JoaoLucas280&theme=dracula&border_radius=5" alt="streak" />
 </div>
 
 ---
