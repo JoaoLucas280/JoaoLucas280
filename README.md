@@ -21,7 +21,7 @@ Sou um desenvolvedor back-end focado em Java e Programação Orientada a Objetos
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java" />
@@ -33,7 +33,7 @@ Sou um desenvolvedor back-end focado em Java e Programação Orientada a Objetos
 
 ---
 
-## 📊 Estatísticas
+##  Estatísticas
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JoaoLucas280&theme=dracula&border_radius=5" alt="streak" />
@@ -41,7 +41,7 @@ Sou um desenvolvedor back-end focado em Java e Programação Orientada a Objetos
 
 ---
 
-## 💼 Disponível para oportunidades
+##  Informações para contato
 
 <div align="center">
   <a href="www.linkedin.com/in/joão-lucas-18a35a398" target="_blank">
