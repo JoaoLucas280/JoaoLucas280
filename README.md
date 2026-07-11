@@ -97,8 +97,6 @@ Sou um desenvolvedor **back-end** focado em **Java** e **Programação Orientada
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=JoaoLucas280&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Linguagens mais usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoLucas280&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Sequência de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=JoaoLucas280&theme=tokyonight&hide_border=true)
