@@ -105,13 +105,11 @@ Sou um desenvolvedor **back-end** focado em **Java** e **Programação Orientada
 
 </div>
 
-<!--
-🐍 COBRA DE CONTRIBUIÇÕES (animação que "come" seu gráfico de contribuições)
-Para ativar, siga o passo a passo que vou te mandar em seguida.
-Depois, descomente a linha abaixo:
-
-![snake gif](https://github.com/JoaoLucas280/JoaoLucas280/blob/output/github-contribution-grid-snake.svg)
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoLucas280/JoaoLucas280/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoLucas280/JoaoLucas280/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobra de contribuições" src="https://raw.githubusercontent.com/JoaoLucas280/JoaoLucas280/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&section=header" width="100%"/>
 
